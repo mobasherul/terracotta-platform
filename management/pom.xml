@@ -42,6 +42,7 @@
     <module>testing/sample-entity</module>
     <module>testing/integration-tests</module>
     <module>testing/doc</module>
+    <module>resource-usage-entity</module>
   </modules>
 
   <name>Terracotta Management</name>
